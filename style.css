@@ -1,0 +1,70 @@
+#mainpage{
+    background-color: #000000;
+    
+}
+.poembody{
+    background-color: rgba(32, 55, 82, 0.613);
+
+}
+div{
+font-size: 40px;
+
+    
+margin-top: 200px;
+text-align: center;
+
+}
+h2{
+text-align: center;
+color: white;
+}
+h1{
+    font-family: "Sofia", sans-serif;
+text-align: center;
+margin-top: 30px;
+padding-bottom: 0px;
+    
+}
+#top{
+    text-align: center;
+}
+#poetry1{
+
+    font-family: "Sofia", sans-serif;
+text-decoration: wavy;
+text-decoration: solid;
+text-shadow: black;
+text-wrap: balance;
+text-align: center;
+font-size: 2em;
+}
+#poetry2{
+
+    font-family: "Trirong", serif;
+    text-decoration: wavy;
+    text-decoration: solid;
+    text-shadow: black;
+    text-wrap: balance;
+    text-align: center;
+    font-size: 2em;
+    }
+    #poetry3{
+
+        font-family: "Audiowide", sans-serif;
+        text-decoration: wavy;
+        text-decoration: solid;
+        text-shadow: black;
+        text-wrap: balance;
+        text-align: center;
+        font-size: 2em;
+        }
+        #poetry4{
+
+             font-family: 'Tangerine', serif;
+            text-decoration: wavy;
+            text-decoration: solid;
+            text-shadow: black;
+            text-wrap: balance;
+            text-align: center;
+            font-size: 3em;
+            }
